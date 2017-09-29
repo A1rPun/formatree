@@ -1,0 +1,25 @@
+{
+  "name": "formatree",
+  "version": "1.0.0",
+  "description": "Format a tree like structure to a depth indented string",
+  "main": "index.js",
+  "scripts": {
+    "test": "exit 1"
+  },
+  "author": "A1rPun",
+  "license": "MIT",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/A1rPun/formatree.git"
+  },
+  "keywords": [
+    "format",
+    "tree",
+    "object",
+    "string"
+  ],
+  "bugs": {
+    "url": "https://github.com/A1rPun/formatree/issues"
+  },
+  "homepage": "https://github.com/A1rPun/formatree#readme"
+}
