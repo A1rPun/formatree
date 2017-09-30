@@ -1,7 +1,7 @@
 # formatree
 > Format a tree like structure to a depth indented string
 
-## Install (soon)
+## Install
 ```
 $ npm i -g formatree
 ```
@@ -137,7 +137,7 @@ Append a string after a parent branch in the tree
 
 ## Related
 
-- CLI for this module (soon)
+- [formatree-cli](https://github.com/A1rPun/formatree-cli) - CLI for this module
 
 ## License
 
