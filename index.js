@@ -5,7 +5,7 @@ module.exports = (structure = {}, options = {}) => {
   const spacing = options.spacing;
   const values = options.values;
   const header = options.header === '' ? '' : (options.header || '.') + newLine;
-  const footer = options.footer === '' ? '' : options.footer || newLine;
+  const footer = options.footer || '';
   const sibling = options.sibling || '├── ';
   const lastSibling = options.lastSibling || '└── ';
   const indent = options.indent || '│   ';
