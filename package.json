@@ -1,6 +1,6 @@
 {
   "name": "formatree",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "Format a tree like structure to a depth indented string",
   "main": "index.js",
   "scripts": {
