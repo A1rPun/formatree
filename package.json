@@ -1,6 +1,6 @@
 {
   "name": "formatree",
-  "version": "1.0.1",
+  "version": "1.0.2",
   "description": "Format a tree like structure to a depth indented string",
   "main": "index.js",
   "scripts": {
@@ -16,7 +16,13 @@
     "format",
     "tree",
     "object",
-    "string"
+    "string",
+    "indent",
+    "lines",
+    "ascii",
+    "directory",
+    "folder",
+    "commands"
   ],
   "bugs": {
     "url": "https://github.com/A1rPun/formatree/issues"
