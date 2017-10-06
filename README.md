@@ -82,9 +82,16 @@ The first line of the tree
 ##### footer
 
 Type: `string`  
-Default: `\n`
+Default: empty
 
 The last line of the tree
+
+##### parent
+
+Type: `string`  
+Default: ``
+
+Append a string after a parent branch in the tree
 
 ##### sibling
 
@@ -105,13 +112,6 @@ Default: `│   `
 
 Type: `string`  
 Default: `    `
-
-##### parent
-
-Type: `string`  
-Default: ``
-
-Append a string after a parent branch in the tree
 
 ## Themes
 ##### ASCII
